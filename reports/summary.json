@@ -1,0 +1,11 @@
+{
+  "top_decile_capture_pct": 25.8,
+  "top_decile_lift": 2.58,
+  "top_features": [
+    "contract_type",
+    "tenure_months",
+    "satisfaction_score",
+    "days_since_last_login",
+    "support_tickets_90d"
+  ]
+}
